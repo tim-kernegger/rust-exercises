@@ -2,16 +2,16 @@
 In this challenge, we're going to use loops to help us do some simple math.
 
 **Task**<br>
-Given an integer *n* print its first 10 multiples. Each multiple *n \* i*  (where 1 $\leqslant$ *i* $\leqslant$ 10) should be printed on a new line in the form: `N x i = result`.
+Given an integer *n* print its first 10 multiples. Each multiple *n \* i*  (where 1 ≤ *i* ≤ 10) should be printed on a new line in the form: `N x i = result`.
 
 **Input Format**<br>
 A single integer *n*.
 
 **Constraints**<br>
-- 2 $\leqslant$ *n* $\leqslant$ 20
+- 2 ≤ *n* ≤ 20
 
 **Output Format**<br>
-Print 10 lines of output. Each line *i* (where 1 $\leqslant$ *i* $\leqslant$ 10) contains the *result* of *n \* i* in the form: `N x i = result`.
+Print 10 lines of output. Each line *i* (where 1 ≤ *i* ≤ 10) contains the *result* of *n \* i* in the form: `N x i = result`.
 
 **Sample Input**<br>
 ```

@@ -9,9 +9,9 @@ The first line contains an integer *q* denoting the number of queries.
 Each line *i* of the *q* subsequent lines contains three space-separated integers describing the respective *a<sub>i</sub>*, *b<sub>i</sub>* and *n<sub>i</sub>* values for that query.
 
 **Constraints**<br>
-- 0 $\leqslant$ *q* $\leqslant$ 500
-- 0 $\leqslant$ *a*, *b* $\leqslant$ 50
-- 1 $\leqslant$ *n* $\leqslant$ 15
+- 0 ≤ *q* ≤ 500
+- 0 ≤ *a*, *b* ≤ 50
+- 1 ≤ *n* ≤ 15
 
 **Output Format**<br>
 For each query, print the corresponding series on a new line. Each series must be printed in order as a single line of *n* space-separated integers.
