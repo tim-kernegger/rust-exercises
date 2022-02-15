@@ -15,7 +15,7 @@ Print whether or not *n* is weird.
 A single line containing a positive integer *n*.
 
 **Constraints**<br>
-- 1 $\leqslant$ *n* $\leqslant$ 100
+- 1 ≤ *n* ≤ 100
 
 **Output Format**<br>
 Print `Weird` if the number is weird otherwise print `Not Weird`.
